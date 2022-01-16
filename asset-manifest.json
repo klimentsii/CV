@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50a89d05.css",
+    "main.js": "/static/js/main.c122a261.js",
+    "static/media/6.png": "/static/media/6.47692505d122dbcae490.png",
+    "static/media/7.png": "/static/media/7.2a145ef826273fe6b8bf.png",
+    "static/media/3.png": "/static/media/3.bf640526dc927c1d5d97.png",
+    "static/media/5.png": "/static/media/5.95b95881f872d00e7e7b.png",
+    "static/media/8.png": "/static/media/8.5713a05f2fb5df46348c.png",
+    "static/media/2.png": "/static/media/2.b58e0cada6bdc52879ba.png",
+    "static/media/1.png": "/static/media/1.2f2532db663fd5ec5f95.png",
+    "static/media/0.png": "/static/media/0.eeb913e1ece4dd5b1fda.png",
+    "static/media/concept.png": "/static/media/concept.791bd2547f2e33ce55da.png",
+    "static/media/4.png": "/static/media/4.d51e09d96001a81e5979.png",
+    "static/media/BeVietnamPro-Light.ttf": "/static/media/BeVietnamPro-Light.017c29dbc4d9f1f201e9.ttf",
+    "static/media/bg.png": "/static/media/bg.6afc803e4cf4d41d5b4f.png",
+    "static/media/BeVietnamPro-Thin.ttf": "/static/media/BeVietnamPro-Thin.716ffc0d2afc1efe4509.ttf",
+    "static/media/home.png": "/static/media/home.cf3e030af671cb430fbd.png",
+    "static/media/12.png": "/static/media/12.a261488041b6b4a02f25.png",
+    "static/media/photo.jpg": "/static/media/photo.2be75fed675a95bb06dd.jpg",
+    "static/media/10.png": "/static/media/10.1c10359b28edc82b9d65.png",
+    "static/media/11.png": "/static/media/11.279d3cec18931471fbea.png",
+    "index.html": "/index.html",
+    "main.50a89d05.css.map": "/static/css/main.50a89d05.css.map",
+    "main.c122a261.js.map": "/static/js/main.c122a261.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50a89d05.css",
+    "static/js/main.c122a261.js"
+  ]
+}
